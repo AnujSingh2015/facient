@@ -1,0 +1,322 @@
+2025-11-22 22:23:21.392 IST [18232] LOG:  starting PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35213, 64-bit
+2025-11-22 22:23:21.396 IST [18232] LOG:  listening on IPv6 address "::1", port 5432
+2025-11-22 22:23:21.397 IST [18232] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-11-22 22:23:21.444 IST [18688] LOG:  database system was interrupted; last known up at 2025-11-22 01:46:02 IST
+2025-11-22 22:23:22.220 IST [18688] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-11-22 22:23:22.225 IST [18688] LOG:  redo starts at 0/1A08698
+2025-11-22 22:23:22.226 IST [18688] LOG:  invalid record length at 0/1A086D0: expected at least 24, got 0
+2025-11-22 22:23:22.226 IST [18688] LOG:  redo done at 0/1A08698 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2025-11-22 22:23:22.228 IST [28540] LOG:  checkpoint starting: end-of-recovery immediate wait
+2025-11-22 22:23:22.240 IST [28540] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.002 s, total=0.014 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A086D0, redo lsn=0/1A086D0
+2025-11-22 22:23:22.271 IST [18232] LOG:  database system is ready to accept connections
+2025-11-22 22:27:54.321 IST [18460] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.322 IST [12700] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.323 IST [24400] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.324 IST [1288] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.324 IST [6924] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.324 IST [8008] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.324 IST [22320] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.325 IST [12592] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.327 IST [17668] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:27:54.327 IST [24020] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.577 IST [9036] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.584 IST [21840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.584 IST [13228] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.584 IST [8960] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.584 IST [24416] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.585 IST [19588] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.586 IST [26040] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.586 IST [27456] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.587 IST [8436] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-22 22:29:57.587 IST [16956] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.796 IST [30536] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.798 IST [30448] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.800 IST [30704] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.800 IST [30360] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.801 IST [30480] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.802 IST [30564] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.803 IST [30508] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.804 IST [30620] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.804 IST [30592] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:29:59.805 IST [30668] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.362 IST [24524] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.362 IST [16800] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.363 IST [10236] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.363 IST [18152] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.363 IST [21316] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.364 IST [7312] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.364 IST [24680] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.365 IST [12244] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.366 IST [28524] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:46:51.366 IST [2548] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.126 IST [26956] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.129 IST [13936] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.129 IST [29752] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.130 IST [25016] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.130 IST [22388] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.130 IST [5692] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.131 IST [23860] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.131 IST [20692] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.132 IST [27872] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:49:46.132 IST [3780] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.699 IST [28044] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.700 IST [21580] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.700 IST [30596] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.701 IST [16716] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.701 IST [30556] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.701 IST [26716] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.702 IST [30588] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.702 IST [25080] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.703 IST [28852] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 00:54:27.703 IST [3100] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.814 IST [13368] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.814 IST [3844] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.814 IST [23940] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.816 IST [22776] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.816 IST [26104] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.818 IST [25700] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.818 IST [30052] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.819 IST [9228] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.819 IST [14280] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:13:36.819 IST [21660] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.751 IST [23304] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.752 IST [17812] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.752 IST [25752] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.753 IST [23696] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.753 IST [30220] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.753 IST [19996] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.753 IST [3780] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.754 IST [26232] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.756 IST [25504] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:19:02.756 IST [7412] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.710 IST [26356] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.710 IST [3664] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.711 IST [21652] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.711 IST [29048] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.712 IST [28172] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.713 IST [16704] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.714 IST [30004] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.714 IST [29568] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.715 IST [19116] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:26:34.718 IST [20004] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.414 IST [16600] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.414 IST [18952] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.416 IST [28312] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.416 IST [28472] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.417 IST [24580] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.417 IST [29704] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.418 IST [17664] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.419 IST [9264] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.419 IST [18208] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:33:01.420 IST [22448] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.775 IST [16500] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.778 IST [29356] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.779 IST [10988] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.779 IST [28856] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.781 IST [26924] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.781 IST [16896] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.781 IST [15960] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.782 IST [28596] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.782 IST [24452] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:46:45.783 IST [7576] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.311 IST [27080] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.312 IST [30360] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.312 IST [8748] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.314 IST [9524] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.315 IST [28580] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.315 IST [23508] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.315 IST [20400] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.316 IST [9676] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.316 IST [16080] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 01:51:46.316 IST [22120] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.580 IST [848] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.582 IST [23004] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.582 IST [23080] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.583 IST [26076] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.583 IST [7980] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.584 IST [27016] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.584 IST [30040] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.586 IST [21984] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.588 IST [22376] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:04:29.590 IST [28336] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.543 IST [30472] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.543 IST [19488] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.543 IST [15044] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.546 IST [27840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.546 IST [23396] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.546 IST [19748] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.546 IST [24920] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.547 IST [23720] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.547 IST [19516] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 02:06:10.547 IST [18924] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2025-11-23 21:37:39.951 IST [30588] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-24 11:59:23.167 IST [35536] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-24 11:59:30.267 IST [20080] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-24 23:07:24.161 IST [4464] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-25 23:05:05.875 IST [28040] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-26 03:08:02.946 IST [24288] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-26 17:08:40.545 IST [22828] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-27 12:26:26.371 IST [35896] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-28 16:15:28.396 IST [20712] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-11-29 12:11:32.014 IST [37120] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-12-02 01:19:15.328 IST [26320] LOG:  could not receive data from client: An established connection was aborted by the software in your host machine.
+	
+2025-12-02 01:56:31.009 IST [18232] LOG:  server process (PID 3024) was terminated by exception 0x40010004
+2025-12-02 01:56:31.009 IST [18232] DETAIL:  Failed process was running: SET application_name = 'PostgreSQL JDBC Driver'
+2025-12-02 01:56:31.009 IST [18232] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-12-02 01:56:31.009 IST [18232] LOG:  terminating any other active server processes
+2025-12-02 01:56:31.543 IST [18232] LOG:  all server processes terminated; reinitializing
+2025-12-02 01:56:31.668 IST [18232] LOG:  startup process (PID 38616) was terminated by exception 0xC000026B
+2025-12-02 01:56:31.668 IST [18232] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-12-02 01:56:31.668 IST [18232] LOG:  aborting startup due to startup process failure
+2025-12-02 01:56:31.672 IST [18232] LOG:  database system is shut down
